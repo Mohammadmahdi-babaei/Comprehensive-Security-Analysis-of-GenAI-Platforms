@@ -1,0 +1,7 @@
+﻿Audit_Metric,Count,Denominator,Percentage,Extraction_Date,Description
+Initial Candidate Rows Examined (2023-2026),74,74,100.00%,2026-11-12,"All candidate rows from base dataset, user lists and NVD extraction"
+Rejected / False-Positive CVEs Excluded (Step 3),1,74,1.35%,2026-11-12,CVE-2024-4701 (genie): Netflix Genie (Hadoop/Spark big-data job orchestration) - not a Generative AI product
+Duplicate CVE Rows Deduplicated (Step 3),1,74,1.35%,2026-11-12,CVE-2024-28088 appeared twice (CWE-22 and CWE-31); kept primary CWE-22
+Final Clean Analytical Sample (N),72,72,100.00%,2026-11-12,Denominator for overall dataset metrics (2023-2026)
+Records with Valid Specific CWE (n_valid),66,72,91.67%,2026-11-12,Primary denominator for RQ2 share calculation (66 records across 26 distinct CWEs)
+Records without Specific CWE (NVD-CWE-noinfo),6,72,8.33%,2026-11-12,Reported separately; excluded from valid CWE denominator (6 records)

@@ -1,0 +1,5 @@
+﻿Category,CWE_Code_Status,Record_Count,Denominator_Total_N,Share_of_Total_Pct,Mean_CVSS,Notes
+Valid Specific CWE Assigned,"26 Distinct Valid CWEs (Top: CWE-94, CWE-74, CWE-918, CWE-22, CWE-79, ...)",66,72,91.67,8.1,Included in Top CWE valid denominator (n_valid = 66)
+Unspecified / Insufficient Info (NVD-CWE-noinfo),NVD-CWE-noinfo,6,72,8.33,7.62,"Reported separately per RQ2 methodology (3 wpbot, 2 langchain, 1 langchain_experimental)"
+Completely Empty / Null CWE Field,NULL / NaN,0,72,0.0,,Zero blank cells; all unspecified CWEs are explicitly tagged as NVD-CWE-noinfo
+Total Dataset (All Analyzed CVEs),All Verified Records (2023-2026),72,72,100.0,8.06,Full verified sample across 14 GenAI products/components (N = 72)
