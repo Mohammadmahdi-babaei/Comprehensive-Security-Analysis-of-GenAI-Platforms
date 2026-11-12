@@ -52,3 +52,22 @@ Key Analytical Dimensions
     3. Severity Impact Assessment: Cross-referencing product data with vulnerability severity scores to highlight critical risk areas.
 
     4. Data Auditing Mechanics: A rigorous methodology for handling incomplete records and missing CWE definitions.
+
+    Execution & Reproducibility
+
+The codebase is optimized for Python 3.14 and is fully compatible with Windows execution environments via Visual Studio Code.
+
+To execute the data processing pipeline:
+Bash
+
+# 1. Clone the repository
+git clone https://github.com/Mohammadmahdi-babaei/Comprehensive-Security-Analysis-of-GenAI-Platforms/
+
+# 2. Navigate to the source directory
+cd GenAI_Vulnerability_Analysis/src
+
+# 3. Execute the primary data script
+python main.py
+
+Note: It is recommended to clear Windows system temporary files (%temp%) prior to processing large datasets to ensure optimal memory allocation during script execution.
+
