@@ -71,5 +71,5 @@ python main.py
 
 Note: It is recommended to clear Windows system temporary files (%temp%) prior to processing large datasets to ensure optimal memory allocation during script execution.
 
-Python (Programming Language), Data Analysis, Cybersecurity, Vulnerability Assessment, Generative AI.
+skills : Python (Programming Language), Data Analysis, Cybersecurity, Vulnerability Assessment, Generative AI.
 
