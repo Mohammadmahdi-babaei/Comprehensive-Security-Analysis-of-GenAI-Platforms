@@ -19,7 +19,7 @@
 - [Methodology & Pipeline](#-methodology--pipeline)
 - [Key Analytical Dimensions](#-key-analytical-dimensions)
 - [Execution & Reproducibility](#-execution--reproducibility)
-- [Author](#-author)
+- [Research Team](#-research-team)
 
 ## 🎯 Abstract
 
@@ -88,12 +88,16 @@ python main.py
 
 > **Note:** It is recommended to clear Windows system temporary files (`%temp%`) prior to processing large datasets to ensure optimal memory allocation during script execution.
 
-## 🔗 Author
+## 🔗 Research Team
 
 **Mohammadmahdi Babaei**
 *Empirical Software Security Researcher | Computer Science*
 - **LinkedIn:** [Mohammadmahdi Babaie](https://www.linkedin.com/in/mohammadmahdi-babaie-7b2a4b3a8)
 - **GitHub:** [@Mohammadmahdi-babaei](https://github.com/Mohammadmahdi-babaei)
+
+**Rasta Rahmani** 
+*Computer Engineering Student | Software Development*
+- **GitHub:** [@fay4379-png](https://github.com/fay4379-png)
 
 ---
 *Skills Demonstrated: Python • Data Analysis • Cybersecurity • Vulnerability Assessment • Generative AI*
